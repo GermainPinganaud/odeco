@@ -3,18 +3,13 @@
         "dep": "84",
         "type": "D\u00e9collage",
         "city": null,
-        "wind": "O"
+        "wind": "E"
     },
     "ouput": {
-        "RUSTREL": {
-            "nom": "RUSTREL",
-            "ville": "RUSTREL",
-            "vent_favo": "O;"
-        },
-        "SAINT JEAN": {
-            "nom": "SAINT JEAN",
-            "ville": "SAULT",
-            "vent_favo": "O;NO"
+        "ARFUYEN": {
+            "nom": "ARFUYEN",
+            "ville": "MALAUCENE",
+            "vent_favo": "E;SE"
         }
     }
 }
