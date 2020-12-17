@@ -1,0 +1,15 @@
+{
+    "filters": {
+        "dep": "84",
+        "type": "Décollage",
+        "city": null,
+        "wind": "E"
+    },
+    "ouput": {
+        "ARFUYEN": {
+            "nom": "ARFUYEN",
+            "ville": "MALAUCENE",
+            "vent_favo": "E;SE"
+        }
+    }
+}
